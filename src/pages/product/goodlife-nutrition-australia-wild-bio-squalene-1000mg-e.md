@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Wild Bio Squalene 1000mg +E
+title: Goodlife Nutrition - Wild Bio Squalene 1000mg +E 365 Capsules
 brand: Goodlife Nutrition Australia
 date: 2019-06-24T10:57:50.853Z
 featuredimage: /img/goodlife_nutrition_wild_bio-squalene_1000mg.1559283817.png
